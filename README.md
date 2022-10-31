@@ -7,7 +7,7 @@ For me I am using one of the peer-programming exercise during the admission proc
 
 HTML
 CSSN
-No framework was used for this project
+Bootstrap 5
 
 ## To get a local copy up and running follow these simple example steps.
 
